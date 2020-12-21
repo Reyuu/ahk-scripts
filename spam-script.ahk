@@ -1,0 +1,2 @@
+^]::
+    Send, {Enter}a{Enter}
